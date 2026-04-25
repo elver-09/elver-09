@@ -1,11 +1,10 @@
 <div align="center">
   <h1>¡Hola! Soy Elver Contreras 👋</h1>
-  <h3>Desarrollador de Software | Especializado en [Tus Especialidades, ej. Apps Móviles & IA]</h3>
+  <h3>Desarrollador de Software | Especializado en Apps Móviles (Flutter), Automatización & Odoo ERP</h3>
   
   <p align="center">
-    <a href="mailto:[TU_CORREO]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="[URL_DE_TU_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="[URL_DE_TU_PORTAFOLIO]"><img src="https://img.shields.io/badge/Portafolio-252F3F?style=for-the-badge&logo=WeChat&logoColor=white" alt="Portfolio"/></a>
+    <a href="mailto:contreraselver09@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://www.linkedin.com/in/elver-contreras-aa56a318a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   </p>
 </div>
 
@@ -13,20 +12,23 @@
 
 ## 👨‍💻 Sobre mí
 
-*   🔭 Actualmente trabajando en **[Nombre de tu proyecto actual o empresa]**
-*   🌱 Aprendiendo a fondo sobre **[Tecnología que estés estudiando]**
-*   💡 Me apasiona resolver problemas a través de **[Tu enfoque, ej. interfaces intuitivas, algoritmos eficientes]**
-*   💬 Pregúntame sobre **[Tus áreas de mayor dominio]**
+*   🔭 Actualmente trabajando en **Trainyl**, ecosistema logístico integrado con Odoo.
+*   🌱 Aprendiendo a fondo sobre **Arquitecturas limpias, CI/CD y despliegue con Docker**.
+*   💡 Me apasiona resolver problemas a través de **aplicaciones móviles eficientes, automatización e implementación de ecosistemas ERP**.
+*   💬 Pregúntame sobre **desarrollo e integración en Odoo, creación de APIs REST, Flutter y Node.js**.
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
-  <!-- REEMPLAZA CON TUS TECNOLOGÍAS -->
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
@@ -34,8 +36,8 @@
 
 ## 🚀 Proyectos Destacados
 
-*   **[🤖 Nombre del Chatbot]([ENLACE_AL_REPO])**: Asistente virtual diseñado para [propósito del bot]. Construido con [Tecnología 1] y [Tecnología 2], logrando [mencionar un logro o métrica, ej. reducir el tiempo de respuesta en un 30%].
-*   **[📱 Nombre de la App]([ENLACE_AL_REPO])**: Aplicación móvil para [público objetivo/propósito]. Implementa [Característica clave, ej. autenticación biométrica y modo offline] usando [Framework/Lenguaje].
+*   **[📱 Trainyl Mobile App](https://github.com/elver-09/app-mobile)**: Aplicación móvil en **Flutter** para conductores y repartidores. Optimiza la gestión de rutas y entregas integrándose directamente con el backend de **Odoo**. Incluye escaneo de códigos de barras, captura de evidencias fotográficas, geolocalización y navegación en tiempo real.
+*   **[🤖 ChatBot WhatsApp - Odoo](https://github.com/elver-09/ChatBot)**: Bot automatizado con **Node.js** y **Baileys** que sincroniza órdenes pendientes nativamente desde Odoo vía API REST. Envía notificaciones proactivas y recordatorios programados a clientes por WhatsApp, manejando estados para evitar spam.
 
 ---
 
