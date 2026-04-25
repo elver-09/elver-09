@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Sobre mí
 
-*   🔭 Actualmente trabajando en **Trainyl**, ecosistema logístico integrado con Odoo.
+*   🔭 Desarrollando soluciones y proyectos a medida para empresas, como el ecosistema logístico **Trainyl**.
 *   🌱 Aprendiendo a fondo sobre **Arquitecturas limpias, CI/CD y despliegue con Docker**.
 *   💡 Me apasiona resolver problemas a través de **aplicaciones móviles eficientes, automatización e implementación de ecosistemas ERP**.
 *   💬 Pregúntame sobre **desarrollo e integración en Odoo, creación de APIs REST, Flutter y Node.js**.
